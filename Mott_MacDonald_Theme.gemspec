@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.authors = ["Josh Green".freeze]
   s.date = "2022-07-14"
   s.email = ["joshuakasyoka@github.com".freeze]
-  s.files = ["_includes/footer.html".freeze, "_includes/head.html".freeze, "_includes/header.html".freeze, "_layouts/default.html".freeze, "_layouts/home.html".freeze, "_layouts/post.html".freeze, "_sass/minima/_base.scss".freeze, "_sass/minima/_layout.scss".freeze, "_sass/minima/custom-styles.scss".freeze, "_sass/minima/custom-variables.scss".freeze, "_sass/minima/initialize.scss".freeze, "_sass/minima/skins/classic.scss".freeze, "_sass/minima/skins/dark.scss".freeze, "_sass/minima/skins/solarized-dark.scss".freeze, "_sass/minima/skins/solarized-light.scss".freeze, "_sass/minima/skins/solarized.scss".freeze, "assets/css/style.scss".freeze]
+  s.files = ["index.markdown.html".freeze, "_includes/head.html".freeze, "_includes/header.html".freeze, "_layouts/default.html".freeze, "_layouts/home.html".freeze, "_layouts/post.html".freeze, "_sass/minima/_base.scss".freeze, "_sass/minima/_layout.scss".freeze, "_sass/minima/custom-styles.scss".freeze, "_sass/minima/custom-variables.scss".freeze, "_sass/minima/initialize.scss".freeze, "_sass/minima/skins/classic.scss".freeze, "_sass/minima/skins/dark.scss".freeze, "_sass/minima/skins/solarized-dark.scss".freeze, "_sass/minima/skins/solarized-light.scss".freeze, "_sass/minima/skins/solarized.scss".freeze, "assets/css/style.scss".freeze]
   s.homepage = "https://github.com/joshuakasyoka/Mott-MacDonald-Theme.git".freeze
   s.licenses = ["MIT".freeze]
   s.rubygems_version = "3.0.3".freeze
