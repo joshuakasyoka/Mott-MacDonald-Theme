@@ -4,8 +4,8 @@
 # stub: minima 2.5.1 ruby lib
 
 Gem::Specification.new do |s|
-  s.name = "minima".freeze
-  s.version = "2.5.1"
+  s.name = "Mott_MacDonald_Theme".freeze
+  s.version = "1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.metadata = { "plugin_type" => "theme" } if s.respond_to? :metadata=
